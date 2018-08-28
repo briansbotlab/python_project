@@ -3,7 +3,7 @@ from gtts import gTTS
 from pygame import mixer
 import tempfile
 '''
-tts = gTTS(text="hello world, welcome to national yunlin university of science and technology", lang='en')
+tts = gTTS(text="hello world", lang='en')
 tts.save("welcome.mp3")
 
 '''

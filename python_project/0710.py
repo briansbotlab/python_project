@@ -1,6 +1,6 @@
 import speech_recognition
 e =speech_recognition.Recognizer()
-AUDIO_FILE = "C:\\Users\\admin\\Downloads\\welcome.wav"
+AUDIO_FILE = "file"
 '''
 with speech_recognition.Microphone() as source:
     audio = e.listen(source)
